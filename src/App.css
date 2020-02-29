@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.nav{
+  height: auto;
+  background-color: grey;
+  text-align: center;
+  justify-content: center; 
+  align-items: stretch;
+
+  
+
+}
+
+.nav-ul{
+  list-style-type: none;
+}
